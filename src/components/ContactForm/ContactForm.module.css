@@ -1,0 +1,21 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    border: 1px solid;
+    padding: 10px;
+}
+.addContact{
+    margin-top: 14px;
+}
+.input{
+    margin-top: 18px;
+}
+.group {
+    display: flex;
+    flex-direction: column;
+}
+.error {
+    font-size: 14px;
+    color: orangered;
+}

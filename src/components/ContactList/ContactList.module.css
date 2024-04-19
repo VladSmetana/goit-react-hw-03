@@ -1,0 +1,9 @@
+.contactContainer{
+    border: 1px solid gray;
+    width: 250px;
+    gap: 16px;
+}
+.box{
+    display: flex;
+    gap: 24px;
+}
